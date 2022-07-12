@@ -8,3 +8,5 @@
 
 ## Running the local server from main.py
 `uvicorn main:app --reload`
+
+Input your secret key in main.py, then your public key in /static/app.js
