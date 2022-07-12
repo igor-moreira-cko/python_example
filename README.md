@@ -1,4 +1,5 @@
 # python_example
+This example uses the Checkout.com SDK for making payment requests, the Frames frontend to make token requests and present the UI for card input, and FastAPI for routing requests between frontend and backend.
 
 ## Installing Fastapi
 `pip install "fastapi[all]"`
